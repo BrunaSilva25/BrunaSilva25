@@ -4,7 +4,7 @@
 
 - 😍 Apaixonada por Tecnologia
 - 🌱 Formada em Análise e Desenvolvimento de Sistemas pela PUCGO
-- 🌱 Atualmente cursando Pós em Desenvolvimento Full-Stack e MBA em Segurança da informação
+- 🌱 Pós Graduada em Desenvolvimento Full-Stack e MBA em Segurança da informação
 ##
 <div align="center">
   <a href="https://github.com/BrunaSilva25">
